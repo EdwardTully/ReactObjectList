@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.main{
+  display: flex;
+  flex-direction:column;
+
+}
+
+.title{
+  font-size: 35px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  
+
+}
+
+
+
+
